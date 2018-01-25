@@ -20,6 +20,6 @@ Die Links zu allen unseren Apps und Services finden Sie hier: [Leasingrechner Ap
 
 ## Open Source Projects
 We at [leasingrechnen.at](https://www.leasingrechnen.at) open-sourced the technology we've created for our Android-, iOS- and Desktop-Apps. You can check out the projects here:
-- [Android PWA Wrapper](https://github.com/xtools-at/Android-PWA-Wrapper) for the Android phones and tablets
+- [Android PWA Wrapper](https://github.com/xtools-at/Android-PWA-Wrapper) for Android phones and tablets
 - [iOS PWA Wrapper](https://github.com/xtools-at/iOS-PWA-Wrapper) for iPhone and iPad
 - [Electron PWA Wapper](https://github.com/xtools-at/Electron-PWA-Wrapper) for Desktop (macOS and Windows currently)

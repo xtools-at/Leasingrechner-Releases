@@ -1,8 +1,11 @@
 # Leasingrechner Releases
 
+
 `EN:` This repository provides easy access to the Apps by [leasingrechnen.at](https//www.leasingrechnen.at), which aren't published on App Stores (yet).
 You can find links to all our Apps and Services here: [Leasingrechner Apps](https//www.leasingrechnen.at/apps)
+
 ---
+
 `DE:` Dieses Repository dient dem einfachen Download der Apps von [leasingrechnen.at](https//www.leasingrechnen.at), die (noch) nicht in einem App Store veröffentlicht sind.
 Die Links zu allen unseren Apps und Services finden Sie hier: [Leasingrechner Apps](https//www.leasingrechnen.at/apps)
 
@@ -17,6 +20,6 @@ Die Links zu allen unseren Apps und Services finden Sie hier: [Leasingrechner Ap
 
 ## Open Source Projects
 We at [leasingrechnen.at](https//www.leasingrechnen.at) open-sourced the technology we've created for our Android-, iOS- and Desktop-Apps. You can check out the projects here:
-- [Android PWA Wrapper](https://github.com/xtools-at/Android-PWA-Wrapper)
+- [Android PWA Wrapper](https://github.com/xtools-at/Android-PWA-Wrapper) for the Android phones and tablets
 - [iOS PWA Wrapper](https://github.com/xtools-at/iOS-PWA-Wrapper) for iPhone and iPad
 - [Electron PWA Wapper](https://github.com/xtools-at/Electron-PWA-Wrapper) for Desktop (macOS and Windows currently)

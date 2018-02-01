@@ -11,7 +11,7 @@ Die Links zu allen unseren Apps und Services finden Sie hier: [Leasingrechner Ap
 
 ## Current Releases
 - Leasingrechner 1.0.3 for macOS
-- Leasingrechner 1.0.3 for Windows (Portable)
+- Leasingrechner 1.0.4 for Windows (Portable)
 
 ## Leasingrechner Apps in Stores
 - [Leasingrechner for Android @ Google Play](https://play.google.com/store/apps/details?id=at.xtools.leasingrechner)

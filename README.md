@@ -10,8 +10,9 @@ You can find links to all our Apps and Services here: [Leasingrechner Apps](http
 Die Links zu allen unseren Apps und Services finden Sie hier: [Leasingrechner Apps](https://www.leasingrechnen.at/apps)
 
 ## Current Releases
-- Leasingrechner 1.0.5 for macOS
+- Leasingrechner 1.0.5 for macOS (DMG)
 - Leasingrechner 1.0.6 for Windows (Portable)
+- Leasingrechner 1.0.6 for Linux (AppImage)
 
 ## Leasingrechner Desktop Apps in Stores
 - [Leasingrechner for macOS @ iTunes App Store](https://itunes.apple.com/at/app/leasingrechner/id1335337823?l=de&mt=12)

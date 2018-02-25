@@ -11,7 +11,7 @@ Die Links zu allen unseren Apps und Services finden Sie hier: [Leasingrechner Ap
 
 ## Current Releases
 - Leasingrechner 1.0.5 for macOS
-- Leasingrechner 1.0.4 for Windows (Portable)
+- Leasingrechner 1.0.6 for Windows (Portable)
 
 ## Leasingrechner Desktop Apps in Stores
 - [Leasingrechner for macOS @ iTunes App Store](https://itunes.apple.com/at/app/leasingrechner/id1335337823?l=de&mt=12)
